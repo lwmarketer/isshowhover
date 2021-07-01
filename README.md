@@ -1,2 +1,2 @@
 # isshowhover
-category attribute
+category attributes
