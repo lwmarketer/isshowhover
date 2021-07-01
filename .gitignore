@@ -19,7 +19,7 @@
 
 !/media/downloadable
 /media/downloadable/*
-!/media/downloadable/.htaccess
+!/media/downloadable/.htaccess 
 
 !/media/xmlconnect
 /media/xmlconnect/*
